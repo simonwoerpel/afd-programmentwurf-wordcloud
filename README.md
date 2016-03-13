@@ -1,7 +1,11 @@
 # afd-programmentwurf-wordcloud
+
 a quick &amp; dirty wordcloud for this: https://correctiv.org/blog/2016/03/11/afd-hat-neues-knall-thema/
 
+see `create_wordcloud.ipynb` for details
+
 ![afd wordcloud](afd_cloud.jpg)
+
 
 ## Stopword resources
 http://members.unine.ch/jacques.savoy/clef/
